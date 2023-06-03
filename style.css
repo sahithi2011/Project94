@@ -1,0 +1,31 @@
+.body_background 
+{
+    background-position: center;
+    background-size:contain;
+	background:url(bg\ gg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    border-style:ridge;
+	background:url(bg\ g.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+#hd3{
+	display: inline-block;
+	color: rgb(255, 255, 255);
+	font-family: "Cinzel";
+	font-size: 40px;
+}
+
+#go{
+	display: inline-block;
+	color: rgb(255, 255, 255);
+	font-family: "Cinzel";
+	font-size: 30px;
+}
